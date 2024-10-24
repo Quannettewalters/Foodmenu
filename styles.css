@@ -1,0 +1,9 @@
+select {
+background-color: rgb(150, 245, 244);
+max-width: 30rem;
+}
+
+.container {
+    max-width: 60px;
+}
+
